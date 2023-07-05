@@ -14,6 +14,7 @@
 | ![Figma](https://img.icons8.com/fluency/48/000000/figma.png) |
 | Figma |
 ![GHstats](http://github-readme-stats.vercel.app/api?username=Danielabedi&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ## Description
 
