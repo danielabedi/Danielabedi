@@ -13,6 +13,7 @@
 | React | Node.js | Express |
 | ![Figma](https://img.icons8.com/fluency/48/000000/figma.png) |
 | Figma |
+![GHstats](http://github-readme-stats.vercel.app/api?username=Danielabedi&show_icons=true)
 
 ## Description
 
