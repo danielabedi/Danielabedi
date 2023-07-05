@@ -1,23 +1,21 @@
-### Salut👋 je suis Daniel_abedi  content de te voire sur mon petit profil bien sympa.
+## Salut👋 je suis Daniel_abedi content de te voire sur mon petit profil bien sympa.
 
-## Technologies
-
-- Langages: HTML|CSS|JavaScript
+### Techno
+- languages: HTML|CSS|JavaScript
 - Frameworks : React|Node.js
-- Outils : Express
-
-## Technologies utilisées
-
+- tools : Express|Figma
+  
 | | | |
 |---|---|---|
 | ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) | ![CSS3](https://img.icons8.com/color/48/000000/css3.png) | ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) |
 | HTML5 | CSS3 | JavaScript |
-| ![React](https://img.icons8.com/ultraviolet/48/000000/react.png) | ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) | ![Express](https://img.icons8.com/color/48/000000/express.png) |
-| React | Node.js | Express |
+| ![React](https://img.icons8.com/ultraviolet/48/000000/react.png) | ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) | ![Express](https://img.icons8.com/color/48/000000/express.png) | ![Figma](https://img.icons8.com/fluency/48/000000/figma.png) |
+| React | Node.js | Express | Figma |
 
 ## Description
 
-Bienvenue sur mon profil GitHub ! Je suis un développeur web et mobile passionné, spécialisé dans les technologies front-end et back-end. J'ai une solide expérience dans la création d'applications web interactives en utilisant HTML, CSS et JavaScript. Je suis également compétent dans le développement d'applications React et la création d'APIs robustes avec Node.js et Express.
+Bienvenue sur mon profil GitHub ! Je suis un développeur web et web mobile passionné par la technologie, spécialisé dans les technologies front-end et back-end.
+Je suis également administrateur réseau et technicien IT avec des compétences en fibre optique.
 
 N'hésitez pas à explorer mes projets publics pour en savoir plus sur mon travail et à me contacter si vous avez des questions ou des opportunités de collaboration !
 
