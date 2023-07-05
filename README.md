@@ -9,7 +9,8 @@
 |---|---|---|
 | ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) | ![CSS3](https://img.icons8.com/color/48/000000/css3.png) | ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) |
 | HTML5 | CSS3 | JavaScript |
-| ![React](https://img.icons8.com/ultraviolet/48/000000/react.png) | ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) | ![Express](https://img.icons8.com/color/48/000000/express.png) | ![Figma](https://img.icons8.com/fluency/48/000000/figma.png) |
+| ![React](https://img.icons8.com/ultraviolet/48/000000/react.png) | ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) | ![Express](https://img.icons8.com/color/48/000000/express.png) 
+| ![Figma](https://img.icons8.com/fluency/48/000000/figma.png) |
 | React | Node.js | Express | Figma |
 
 ## Description
