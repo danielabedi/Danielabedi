@@ -1,4 +1,4 @@
-### Salut je suis Daniel_abedi 👋 content de te voire sur mon petit profil bien sympa.
+### Salut👋 je suis Daniel_abedi  content de te voire sur mon petit profil bien sympa.
 
 ## Technologies
 
